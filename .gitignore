@@ -1,3 +1,4 @@
+.env
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -16,3 +17,6 @@
 
 # IDEA
 .idea/
+
+# voluems
+db-data/
